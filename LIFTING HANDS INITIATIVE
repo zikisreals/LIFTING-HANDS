@@ -1,0 +1,9 @@
+/app
+  /learning
+    page.tsx
+    [slug]/page.tsx
+/components
+  LessonCard.tsx
+  ProgressBar.tsx
+/lib
+  lessons.ts
